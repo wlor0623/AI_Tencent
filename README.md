@@ -1,5 +1,8 @@
 # AI_Tencent
-腾讯ai nodejs版 获取签名
+腾讯ai nodejs版 获取签名 
+图片OCR识别 语音识别 机器翻译 人脸识别
+
+[腾讯AI开放平台](https://ai.qq.com/)
 
 ## 使用方法
 
