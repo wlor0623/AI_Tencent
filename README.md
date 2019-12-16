@@ -10,7 +10,7 @@
 
 > node app.js
 
-## 示例代码
+## 获取签名示例代码
 ```javascript
 const md5 = require('md5');
 //获取签名
